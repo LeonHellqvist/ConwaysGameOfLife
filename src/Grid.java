@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Grid {
     char[][] grid;
     final int gridX;
